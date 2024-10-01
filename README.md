@@ -4,11 +4,11 @@ AlzPal is an Android application designed to assist caregivers and individuals w
 
 ## Features
 
-- **Daily Tips**: Offers helpful tips and advice for caregivers and patients.
-- **Medication Management**: Allows users to add, update, and manage medication entries, including setting alarms for medication reminders.
-- **Real-Time Location Tracking**: Users can track the real-time location of patients and set geofences for safety.
-- **Profile Management**: Users can create and manage their profiles, including uploading profile pictures and selecting gender.
-- **User Notifications**: Sends notifications for reminders and updates.
+- **Daily Tips**: Offers helpful Tips and Advice for Caregivers and Patients.
+- **Medication Management**: Allows users to Add, Update, and Manage Medication Entries, including Setting Alarms for Medication Reminders.
+- **Real-Time Location Tracking**: Users can Track the Real-Time Location of Patients and Set Geofences for Safety.
+- **Profile Management**: Users can create and manage their Profiles, including uploading Profile Pictures and Selecting Gender.
+- **User Notifications**: Sends Notifications for Reminders and Updates.
 
 ## Getting Started
 
