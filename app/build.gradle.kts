@@ -10,12 +10,12 @@ plugins {
 
 android {
     namespace = "com.alzpal"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.alzpal"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
@@ -141,4 +141,6 @@ dependencies {
     // Compose testing dependencies
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest:1.8.0-alpha02")
+
+    implementation(libs.androidx.recyclerview)
 }

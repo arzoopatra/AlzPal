@@ -4,7 +4,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import com.alzpal.dashboardactivity.chatpal.MainActivity;
+
+import com.alzpal.dashboardactivity.carepal.CarepalActivity;
 
 public class CarePalSplashActivity extends Activity {
 
@@ -23,7 +24,7 @@ public class CarePalSplashActivity extends Activity {
             @Override
             public void run() {
                 // Create an Intent to start the MainActivity
-                Intent intent = new Intent(CarePalSplashActivity.this, MainActivity.class);
+                Intent intent = new Intent(CarePalSplashActivity.this, CarepalActivity.class);
                 startActivity(intent); // Start the MainActivity
                 finish(); // Close the current activity
             }

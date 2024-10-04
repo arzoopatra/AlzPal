@@ -20,7 +20,6 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.graphics.Color
 import com.alzpal.R
 
-
 data class MenuItem(
     val routeId: String,
     val titleResId: Int,

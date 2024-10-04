@@ -32,7 +32,7 @@ public class AlarmBroadcastReceiver extends BroadcastReceiver {
                 PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE
         );
 
-        String message = userName + ", Please take " + medQty + " a Look " + medName + ".";
-        notificationHelper.sendNotification("Emergency", message, resultPendingIntent);
+        String message = userName + ", Please take " + medQty + " of " + medName;
+        notificationHelper.sendNotification("Medicine Remminder", message, resultPendingIntent);
     }
 }
