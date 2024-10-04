@@ -25,7 +25,7 @@ class PhotoReasoningViewModel(
         selectedImages: List<Bitmap>
     ) {
         _uiState.value = PhotoReasoningUiState.Loading
-        val prompt = "Look at the image(s), and then answer the following question: $userInput"
+        val prompt = "Look at the Image(s), and then answer the following question: $userInput"
 
         viewModelScope.launch(Dispatchers.IO) {
             try {

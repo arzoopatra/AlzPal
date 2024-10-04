@@ -30,12 +30,6 @@
             android:name=".dashboardactivity.carepal.CarepalActivity"
             android:exported="false" />
         <activity
-            android:name=".CarepalActivity"
-            android:exported="false" />
-        <activity
-            android:name=".InfoActivity"
-            android:exported="false" />
-        <activity
             android:name=".dashboardactivity.reminder.useractivity.PillsActivity"
             android:exported="false" />
 

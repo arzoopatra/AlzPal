@@ -1,5 +1,6 @@
 package com.alzpal.dashboardactivity.chatpal.feature.chat
 
+import androidx.annotation.RequiresApi
 import androidx.compose.runtime.toMutableStateList
 
 class ChatUiState(
@@ -12,6 +13,7 @@ class ChatUiState(
         _messages.add(msg)
     }
 
+    @RequiresApi(35)
     fun replaceLastPendingMessage() {
         val lastMessage = _messages.lastOrNull()
         lastMessage?.let {

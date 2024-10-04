@@ -1,5 +1,6 @@
 package com.alzpal.dashboardactivity.chatpal.feature.chat
 
+import androidx.annotation.RequiresApi
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
@@ -22,6 +23,7 @@ import com.alzpal.R
 import com.alzpal.dashboardactivity.chatpal.GenerativeViewModelFactory
 import kotlinx.coroutines.launch
 
+@RequiresApi(35)
 @Composable
 internal fun ChatRoute(
     chatViewModel: ChatViewModel = viewModel(factory = GenerativeViewModelFactory)

@@ -66,10 +66,10 @@
     <!-- Menu strings -->
     <string name="menu_summarize_title">FOR CAREGIVERS USE</string>
     <string name="menu_summarize_description">for caregivers only</string>
-    <string name="menu_reason_title">Chat using image😃🖼️</string>
-    <string name="menu_reason_description">Add images and ask about them with ChatPal</string>
-    <string name="menu_chat_title">Chat 🤖 with ChatPal😊</string>
-    <string name="menu_chat_description">Start chatting with ChatPal</string>
+    <string name="menu_reason_title">Chat using Image</string>
+    <string name="menu_reason_description">Add Images and Ask about them with ChatPal</string>
+    <string name="menu_chat_title">Chat with ChatPal</string>
+    <string name="menu_chat_description">Start Chatting with ChatPal</string>
 
     <!-- Summarize sample strings -->
     <string name="summarize_label">Text</string>

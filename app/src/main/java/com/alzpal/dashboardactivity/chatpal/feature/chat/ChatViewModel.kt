@@ -1,5 +1,6 @@
 package com.alzpal.dashboardactivity.chatpal.feature.chat
 
+import androidx.annotation.RequiresApi
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.google.ai.client.generativeai.GenerativeModel
@@ -15,8 +16,8 @@ class ChatViewModel(
 ) : ViewModel() {
     private val chat = generativeModel.startChat(
         history = listOf(
-            content(role = "user") { text("Hello, I am an alzheimer patient, and I am using AlzPal app...the app that you are a part of. your are one of the features in AlzPal app named as 'ChatPal'.The app has features including Reminder, Tracker, ChatPal, Memory game, Music therapy and Caregiver corner. So I am here to engage myself with you, to share my feelings to, to discuss what i feel. so keep engaging me...and if i tell you to remind me later, so help me remember with that because in alzheimer people often forget things as you know.") },
-            content(role = "model") { text("ohh! that's ok. Don't worry, feel free to talk to me anytime, also tell me if you need me to remind anything to you😊. And i am friend to an alzheimer patients so i am friend of yours as well😊") }
+            content(role = "user") { text("Hello, I am an Alzheimer patient using the AlzPal app, where you are a feature called 'ChatPal'. AlzPal has features like Reminders, Tracker, ChatPal, Memory Game, Music Therapy, and Caregiver Corner. I'm here to engage with you, share my feelings, and discuss what I feel. Please keep me engaged, and if I ask you to remind me later, help me remember since people with Alzheimer’s often forget things") },
+            content(role = "model") { text("No worries, Feel Free to Talk Anytime. Let me know if you need any Help. I'm a friend to Alzheimer patients, so I'm your friend too") }
         )
     )
 
@@ -33,6 +34,7 @@ class ChatViewModel(
         _uiState.asStateFlow()
 
 
+    @RequiresApi(35)
     fun sendMessage(userMessage: String) {
         // Add a pending message
         _uiState.value.addMessage(
