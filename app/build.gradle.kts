@@ -65,7 +65,8 @@ android {
 
     buildFeatures {
         buildConfig = true
-        compose = true // Enable Jetpack Compose
+        compose = true
+        viewBinding = true// Enable Jetpack Compose
     }
 
     composeOptions {
@@ -80,6 +81,7 @@ android {
 dependencies {
     // Room for database operations
     implementation(libs.room.runtime)
+    implementation(libs.play.services.maps)
     annotationProcessor(libs.room.compiler)
     testImplementation(libs.room.testing)
 

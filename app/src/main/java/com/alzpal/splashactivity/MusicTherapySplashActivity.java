@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.alzpal.dashboardactivity.tracker.TrackerActivity;
+import com.alzpal.dashboardactivity.musictherapy.MusictherapyActivity;
 import com.alzpal.R;
 
 public class MusicTherapySplashActivity extends Activity {
@@ -26,7 +26,7 @@ public class MusicTherapySplashActivity extends Activity {
             @Override
             public void run() {
                 // Create an Intent to start the MainActivity
-                Intent intent = new Intent(MusicTherapySplashActivity.this, TrackerActivity.class);
+                Intent intent = new Intent(MusicTherapySplashActivity.this, MusictherapyActivity.class);
                 startActivity(intent); // Start the MainActivity
                 finish(); // Close the current activity
             }

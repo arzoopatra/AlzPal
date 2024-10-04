@@ -48,7 +48,7 @@ public class SavedPatientsAdapter extends RecyclerView.Adapter<SavedPatientsAdap
         // Set the click listener for the "View Location" button
         holder.buttonViewLocation.setOnClickListener(v -> {
             // Start RealTimeLocationActivity with the patient's number as an extra
-            Intent intent = new Intent(context, MapActivity.class);
+            Intent intent = new Intent(context, MapsActivity.class);
             intent.putExtra("number", patient.getNumber());
             context.startActivity(intent);
         });

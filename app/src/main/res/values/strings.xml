@@ -83,4 +83,5 @@
     <!-- Chat sample strings -->
     <string name="chat_label">Message</string>
     <string name="action_send">Send</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

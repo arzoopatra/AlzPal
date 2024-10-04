@@ -96,7 +96,7 @@
     <GridLayout
         android:layout_width="380dp"
         android:layout_height="600dp"
-        android:layout_marginTop="18dp"
+        android:layout_marginTop="23dp"
         android:columnCount="2"
         android:rowCount="3"
         app:layout_constraintBottom_toTopOf="@+id/coordinatorLayout"
@@ -126,8 +126,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
                     android:src="@drawable/reminder" />
 
                 <TextView
@@ -167,8 +167,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
                     android:src="@drawable/location" />
 
                 <TextView
@@ -207,8 +207,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
                     android:src="@drawable/games" />
 
                 <TextView
@@ -247,8 +247,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
                     android:src="@drawable/chatpal" />
 
                 <TextView
@@ -287,8 +287,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
                     android:src="@drawable/musictherapy" />
 
                 <TextView
@@ -328,8 +328,8 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
                     android:src="@drawable/carepal" />
 
                 <TextView

@@ -50,7 +50,7 @@ public class TrackLocationActivity extends AppCompatActivity {
             String age = ageEditText.getText().toString();
             String number = numberEditText.getText().toString();
 
-            Intent intent = new Intent(TrackLocationActivity.this, MapActivity.class);
+            Intent intent = new Intent(TrackLocationActivity.this, MapsActivity.class);
             intent.putExtra("name", name);
             intent.putExtra("age", age);
             intent.putExtra("number", number);
