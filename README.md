@@ -6,23 +6,17 @@
 
 ## Features :-
 
-⭐ **GPS Tracking**  
-- Real-time Tracking for Caregivers to Locate and Monitor the User’s Movements.
+⭐ **GPS Tracking**  :- Real-time Tracking for Caregivers to Locate and Monitor the User’s Movements.
 
-⭐ **Reminders**  
-- Medication, Appointment, and Task Teminders with customizable Notifications.
+⭐ **Reminders**  :- Medication, Appointment, and Task Teminders with customizable Notifications.
 
-⭐ **Games**  
-- Cognitive-enhancing Games designed to stimulate Mental Agility and Memory Retention.
+⭐ **Memory Games**  :- Cognitive-enhancing Games designed to stimulate Mental Agility and Memory Retention.
 
-⭐ **ChatPal**  
-- Communication Platform for Caregivers and Family Members to stay Connected and provide Support.
+⭐ **ChatPal**  :- Communication Platform for Caregivers and Family Members to stay Connected and provide Support.
 
-⭐ **Songs**  
-- Collection of calming music and favorite songs to soothe and engage users.
+⭐ **Songs**  :- Collection of calming music and favorite songs to soothe and engage users.
 
-⭐ **Info**  
-- Easy access to essential information such as Medical History, Emergency Contacts, and other vital details.
+⭐ **CarePal**  :- Easy access to essential information such as Medical History, Emergency Contacts, and other vital details.
 
 ---
 
