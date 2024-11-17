@@ -47,8 +47,6 @@ Here are some screenshots of the AlzPal app in action:
   <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Games.png" alt="Games" width="155"/> &nbsp;
   <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/ChatPal.png" alt="ChatPal" width="155"/> &nbsp;
 </div>
-
----
  
 ## 🩷 Authors :-
 
