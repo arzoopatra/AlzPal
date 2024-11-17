@@ -52,11 +52,11 @@ To get started with the AlzPal App, You'll need to have the following :
 Here are some screenshots of the AlzPal app in action:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Login.png" alt="Login Screen" width="170"/>
-  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Registration.png" alt="Registration Screen" width="170"/>
-  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Dashboard.png" alt="Dashboard" width="170"/>
-  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Games.png" alt="Games" width="170"/>
-  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/ChatPal.png" alt="ChatPal" width="170"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Login.png" alt="Login Screen" width="140"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Registration.png" alt="Registration Screen" width="140"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Dashboard.png" alt="Dashboard" width="140"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Games.png" alt="Games" width="140"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/ChatPal.png" alt="ChatPal" width="140"/>
 </div>
 
 ---
