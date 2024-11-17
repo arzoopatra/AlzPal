@@ -16,10 +16,10 @@
 - Cognitive-enhancing Games designed to stimulate Mental Agility and Memory Retention.
 
 ⭐ **ChatPal**  
-- A Communication Platform for Caregivers and Family Members to stay Connected and provide Support.
+- Communication Platform for Caregivers and Family Members to stay Connected and provide Support.
 
-⭐**Songs**  
-- A Collection of calming music and favorite songs to soothe and engage users.
+⭐ **Songs**  
+- Collection of calming music and favorite songs to soothe and engage users.
 
 ⭐ **Info**  
 - Easy access to essential information such as Medical History, Emergency Contacts, and other vital details.
