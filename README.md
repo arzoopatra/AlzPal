@@ -45,10 +45,22 @@ To get started with the AlzPal App, You'll need to have the following :
 3. In Android Studio, Select Build > Make Project to Compile the App.
 4. Use the Run button in Android Studio to deploy the App to your Device/Emulator.
 
+---
 
 ## Screenshots :-
-    
 
+Here are some screenshots of the AlzPal app in action:
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Login.png" alt="Login Screen" width="190"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Registration.png" alt="Registration Screen" width="190"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Dashboard.png" alt="Dashboard" width="190"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Games.png" alt="Games" width="190"/>
+  <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/ChatPal.png" alt="ChatPal" width="190"/>
+</div>
+
+---
+ 
 ## Authors :-
 
 🩷 **Arzoo Patra** - Developer and Maintainer  
