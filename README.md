@@ -51,7 +51,7 @@ To get started with the AlzPal App, You'll need to have the following :
 
 Here are some screenshots of the AlzPal app in action:
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Login.png" alt="Login Screen" width="155"/>
   <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Registration.png" alt="Registration Screen" width="155"/>
   <img src="https://github.com/arzoopatra/AlzPal/blob/master/Screenshots/Dashboard.png" alt="Dashboard" width="155"/>
