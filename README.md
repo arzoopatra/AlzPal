@@ -6,22 +6,22 @@
 
 ## Features :-
 
-🌍 **GPS Tracking**  
+⭐ **GPS Tracking**  
 - Real-time Tracking for Caregivers to Locate and Monitor the User’s Movements.
 
-⏰ **Reminders**  
+⭐ **Reminders**  
 - Medication, Appointment, and Task Teminders with customizable Notifications.
 
-🎮 **Games**  
+⭐ **Games**  
 - Cognitive-enhancing Games designed to stimulate Mental Agility and Memory Retention.
 
-💬 **ChatPal**  
+⭐ **ChatPal**  
 - A Communication Platform for Caregivers and Family Members to stay Connected and provide Support.
 
-🎵 **Songs**  
+⭐**Songs**  
 - A Collection of calming music and favorite songs to soothe and engage users.
 
-ℹ️ **Info**  
+⭐ **Info**  
 - Easy access to essential information such as Medical History, Emergency Contacts, and other vital details.
 
 ---
@@ -63,15 +63,15 @@ Here are some screenshots of the AlzPal app in action:
  
 ## Authors :-
 
-🩷 **Arzoo Patra** - Developer and Maintainer  
+⭐ **Arzoo Patra** - Developer and Maintainer  
   - GitHub: [@arzoopatra](https://github.com/arzoopatra)  
-  - Email: [your-email@example.com](mailto:your-email@example.com)
+  - Email: [arzoo.patra17@gmail.com](mailto:arzoo.patra17@gmail.com)
  
 ⭐ **Jaya** - Developer 
   - GitHub:   
   - Email:  
 
-🌸 **Nikita Kumari** - Developer  
+⭐ **Nikita Kumari** - Developer  
   - GitHub:  
   - Email:  
    
