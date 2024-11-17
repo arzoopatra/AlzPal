@@ -4,7 +4,7 @@
 
 ---
 
-## Features :-
+## 🩷 Features :-
 
 ⭐ **GPS Tracking**  :- Real-time Tracking for Caregivers to Locate and Monitor the User’s Movements.
 
@@ -17,27 +17,6 @@
 ⭐ **Songs**  :- Collection of calming music and favorite songs to soothe and engage users.
 
 ⭐ **CarePal**  :- Easy access to essential information such as Medical History, Emergency Contacts, & other details.
-
----
-
-## Getting Started
-
-### Prerequisites :-
-
-To get started with the AlzPal App, You'll need to have the following :
-
-- **Operating System:** Android 8.0+ (API level 26) or higher  
-- **Development Environment:** Android Studio 4.0+  
-    
-### Installation :-
-
-1. Clone the Repository:
-   ```bash
-   git clone https://github.com/arzoopatra/alzpal.git
-
-2. Open the project in Android Studio.
-3. In Android Studio, Select Build > Make Project to Compile the App.
-4. Use the Run button in Android Studio to deploy the App to your Device/Emulator.
 
 ---
 
@@ -55,7 +34,7 @@ Here are some screenshots of the AlzPal app in action:
 
 ---
  
-## Authors :-
+## 🩷 Authors :-
 
 ⭐ **Arzoo Patra** - Developer and Maintainer  
   - GitHub: [@arzoopatra](https://github.com/arzoopatra)  
