@@ -16,7 +16,7 @@
 
 ⭐ **Songs**  :- Collection of calming music and favorite songs to soothe and engage users.
 
-⭐ **CarePal**  :- Easy access to essential information such as Medical History, Emergency Contacts, and other vital details.
+⭐ **CarePal**  :- Easy access to essential information such as Medical History, Emergency Contacts, & other details.
 
 ---
 
