@@ -18,25 +18,23 @@
 
 ⭐ **CarePal**  :- Easy access to essential information such as Medical History, Emergency Contacts, & other details.
 
----
-
+ 
 ## Getting Started
 
-### Prerequisites :-
+>### Prerequisites :-
+>
+>To get started with the AlzPal App, You'll need to have the following :
+>
+>- **Operating System:** Android 8.0+ (API level 26) or higher  
+>- **Development Environment:** Android Studio 4.0+  
+>   
+>### Installation :-
+>
+>1. Clone the Repository.
+>2. Open the project in Android Studio.
+>3. In Android Studio, Select Build > Make Project to Compile the App.
+>4. Use the Run button in Android Studio to deploy the App to your Device/Emulator.
 
-To get started with the AlzPal App, You'll need to have the following :
-
-- **Operating System:** Android 8.0+ (API level 26) or higher  
-- **Development Environment:** Android Studio 4.0+  
-    
-### Installation :-
-
-1. Clone the Repository.
-2. Open the project in Android Studio.
-3. In Android Studio, Select Build > Make Project to Compile the App.
-4. Use the Run button in Android Studio to deploy the App to your Device/Emulator.
-
----
 
 ## Screenshots :-
 
