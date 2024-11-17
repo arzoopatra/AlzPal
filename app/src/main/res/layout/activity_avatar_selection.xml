@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@color/ivory"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".dashboardactivity.memorygames.avatars.AvatarSelectionActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/register_button"
+            android:layout_width="370dp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="244dp"
+            android:backgroundTint="@color/green"
+            android:gravity="center"
+            android:text="@string/register"
+            android:textColor="@color/ivory"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <GridView
+            android:id="@+id/avatar_grid_view"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:layout_marginBottom="52dp"
+            android:background="@drawable/avatar_item_selector"
+            android:horizontalSpacing="10dp"
+            android:numColumns="4"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="10dp"
+            app:layout_constraintBottom_toTopOf="@+id/register_button"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <EditText
+            android:id="@+id/avatar_name_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_your_name"
+            android:minHeight="48dp"
+            app:layout_constraintBottom_toTopOf="@+id/avatar_grid_view"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.829" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

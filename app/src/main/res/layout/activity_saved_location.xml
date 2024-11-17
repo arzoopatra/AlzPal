@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/saved_location_background"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".dashboardactivity.tracker.SavedLocationActivity">
+
+     <androidx.constraintlayout.widget.ConstraintLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent">
+
+          <Button
+              android:id="@+id/back"
+              android:layout_width="@dimen/_40sdp"
+              android:layout_height="@dimen/_40sdp"
+              android:layout_marginStart="@dimen/_16sdp"
+              android:layout_marginTop="@dimen/_16sdp"
+              android:background="@drawable/baseline_arrow_back_24"
+              android:backgroundTint="@color/ivory"
+              android:contentDescription="@string/app_name"
+              android:onClick="onBackButtonClick"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent" />
+
+          <TextView
+              android:id="@+id/no_saved_patients_text_view"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="No Saved Patients Locations Found"
+              android:textColor="@android:color/black"
+              android:textSize="18sp"
+              android:visibility="gone"
+              app:layout_constraintBottom_toBottomOf="@+id/recyclerViewSavedPatients"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:layout_constraintHorizontal_bias="0.456"
+              app:layout_constraintStart_toStartOf="@+id/recyclerViewSavedPatients"
+              app:layout_constraintTop_toTopOf="@+id/recyclerViewSavedPatients"
+              app:layout_constraintVertical_bias="0.427" />
+
+          <androidx.recyclerview.widget.RecyclerView
+              android:id="@+id/recyclerViewSavedPatients"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/_520sdp"
+              android:padding="@dimen/_8sdp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:layout_constraintHorizontal_bias="0.0"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent"
+              app:layout_constraintVertical_bias="1.0" />
+
+          <TextView
+              android:id="@+id/greetingTextView"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="@dimen/_105sdp"
+              android:fontFamily="sans-serif-black"
+              android:text="Saved Location List"
+              android:textColor="@color/ivory"
+              android:textSize="@dimen/_20sdp"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent" />
+
+     </androidx.constraintlayout.widget.ConstraintLayout>
+
+</RelativeLayout>
