@@ -8,7 +8,7 @@
 
 ⭐ **GPS Tracking**  :- Real-time Tracking for Caregivers to Locate and Monitor the User’s Movements.
 
-⭐ **Reminders**  :- Medication, Appointment, and Task Teminders with customizable Notifications.
+⭐ **Reminders**  :- Medication, Appointment, and Task Reminders with customizable Notifications.
 
 ⭐ **Memory Games**  :- Cognitive-enhancing Games designed to stimulate Mental Agility and Memory Retention.
 
