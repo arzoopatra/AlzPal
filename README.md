@@ -50,15 +50,17 @@ Here are some screenshots of the AlzPal app in action:
  
 ## 🩷 Authors :-
 
-⭐ **Arzoo Patra** - Developer and Maintainer  
+⭐ **Arzoo Patra** - Developer and Designer
   - GitHub: [@arzoopatra](https://github.com/arzoopatra)  
   - Email: [arzoo.patra17@gmail.com](mailto:arzoo.patra17@gmail.com)
  
 ⭐ **Jaya** - Developer    
 
 ⭐ **Nikita Kumari** - Developer  
-   
 
+⭐️ **Dolly** - Innovator
+
+⭐️ **Chahal & Swati** - Maintainer
     
 
  
